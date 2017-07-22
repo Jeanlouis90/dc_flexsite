@@ -23,5 +23,9 @@ html {
 
 .side-info {
     flex: 2;
-    margin-left: 3%;
+    margin-left: 3%
+}
+
+.side-info h3 {
+    margin-bottom: 15%;
 }
